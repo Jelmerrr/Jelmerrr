@@ -8,6 +8,7 @@ I'm Jelmer, a 22 year old game designer with a software engineering background f
 ## Skills
 - Unity & Godot
 - Game design, Sound design & System programming
+- VR Development
 - FMOD, Blender & Blockbench
 - C#, JavaScript, HTML & CSS
 - React, Node & ASP.net
