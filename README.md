@@ -12,9 +12,9 @@ I'm Jelmer, a 22 year old game designer with a software engineering background f
 - React, Node
 
 ## Contact
-- [LinkedIN](https://www.linkedin.com/in/jelmerderooij/)
+- [LinkedIn](https://www.linkedin.com/in/jelmerderooij/)
 - jelmerderooij2001@gmail.com
-- - [@jelmerrr](./) on Discord
+- [@jelmerrr](./) on Discord
 
 <!--
 **Jelmerrr/Jelmerrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
