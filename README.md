@@ -1,4 +1,20 @@
 ## Hi there 👋
+I'm Jelmer, a 22 year old game designer with a software engineering background from the Netherlands.
+
+- Student at Fontys University of Applied Science.
+- Working on my own games in my free time: [Monochromatic](https://github.com/Jelmerrr/Monochromatic) & [Critter Content](https://github.com/Jelmerrr/Critter-Content)
+- Check out some more demos of my work on [my Youtube](https://www.youtube.com/@JelmerrR-sc3uq)
+
+## Skills
+- Unity & Godot
+- Sound design & FMOD
+- C#, JavaScript, HTML & CSS
+- React, Node
+
+## Contact
+- [LinkedIN](https://www.linkedin.com/in/jelmerderooij/)
+- jelmerderooij2001@gmail.com
+- - [@jelmerrr](./) on Discord
 
 <!--
 **Jelmerrr/Jelmerrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
