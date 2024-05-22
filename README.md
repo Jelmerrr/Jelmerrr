@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Jelmer, a 22 year old game designer with a software engineering background from the Netherlands.
 
-- Student at Fontys University of Applied Science.
+- Student at Fontys University of Applied Sciences
 - Working on my own games in my free time: [Monochromatic](https://github.com/Jelmerrr/Monochromatic) & [Critter Content](https://github.com/Jelmerrr/Critter-Content)
 - Check out some more demos of my work on [my Youtube](https://www.youtube.com/@JelmerrR-sc3uq)
 
