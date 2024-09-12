@@ -6,7 +6,7 @@ I'm Jelmer, a 22 year old game designer with a software engineering background f
 - Check out some more demos of my work on [my Youtube](https://www.youtube.com/@JelmerrR-sc3uq)
 
 ## Skills
-- Unity & Godot
+- Unity, Unreal Engine & Godot
 - Game design, Sound design & System programming
 - VR Development
 - FMOD, Blender & Blockbench
