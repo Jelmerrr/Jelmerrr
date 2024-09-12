@@ -13,6 +13,7 @@ I'm Jelmer, a 22 year old game designer with a software engineering background f
 - 4 years of experience with C#
 
   Always interested in learning new things
+  
   Currently learning: Unreal Engine
 
 ## Contact
