@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Jelmer, a 22 year old game designer with a software engineering background from the Netherlands.
+I'm Jelmer, a 23 year old game designer with a software engineering background from the Netherlands.
 
 - Graduated at Fontys University of Applied Sciences
 - Check out some more demos of my work on [my Youtube](https://www.youtube.com/@JelmerrR-sc3uq)
