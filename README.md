@@ -1,20 +1,18 @@
 ## Hi there 👋
 I'm Jelmer, a 22 year old game designer with a software engineering background from the Netherlands.
 
-- Student at Fontys University of Applied Sciences
-- Currently working on OpTijd, a train schedule management and puzzle game (more info soon!)
+- Graduated at Fontys University of Applied Sciences
 - Check out some more demos of my work on [my Youtube](https://www.youtube.com/@JelmerrR-sc3uq)
 
 ## Experience
-- 4 years of experience with Unity
+- 5 years of experience with Unity
 - 2 years of experience with sound design using FMOD
 - 1 year of experience with music composing
 - 2 years of experience with Blender
-- 4 years of experience with C#
+- 5 years of experience with C#
+- 1 year of experience with Unreal Engine
 
   Always interested in learning new things
-  
-  Currently learning: Unreal Engine
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/jelmerderooij/)
