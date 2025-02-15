@@ -5,12 +5,12 @@ I'm Jelmer, a 23 year old game designer with a software engineering background f
 - Check out some more demos of my work on [my Youtube](https://www.youtube.com/@JelmerrR-sc3uq)
 
 ## Experience
-- 5 years of experience with Unity
+- 4 years of experience with Unity
 - 2 years of experience with sound design using FMOD
 - 1 year of experience with music composing
 - 2 years of experience with Blender
-- 5 years of experience with C#
-- 1 year of experience with Unreal Engine
+- 4 years of experience with C#
+- 1/2 year of experience with Unreal Engine
 
   Always interested in learning new things
 
