@@ -12,8 +12,12 @@ I'm Jelmer, a 23 year old game developer with a software engineering background 
 - 2 years of experience with Javascript mostly with the React framework
 - 1 1/2 years of experience with sound design and audio production for game development
 - 1/2 year of experience using FMOD audio implementation
+- Additionally, I have some experience with Docker, ASP.NET, Html/css, PHP, Python and Java.
 
-Additionally, I have some experience with Docker, ASP.NET, Html/css, PHP, Python and Java.
+Internships:
+- UI/UX analysis for the Telbase platform for Yenlo.
+- Visual and technical implementation of Metahumans in Unreal Engine for MindLabs. https://www.mind-labs.eu/over-ons/mai/
+
 
 Always open to learn new things.
 
