@@ -15,7 +15,7 @@ I'm Jelmer, a 23 year old game developer with a software engineering background 
 - Additionally, I have some experience with Docker, ASP.NET, Html/css, PHP, Python, TypeScript and Java.
 
 Internships:
-- UI/UX analysis for the Telbase platform for Yenlo.
+- UI/UX analysis for the Telbase platform for Datacon, now Yenlo. https://www.yenlo.com/nl/sectoren/telecom/
 - Visual and technical implementation of Metahumans in Unreal Engine for MindLabs. https://www.mind-labs.eu/over-ons/mai/
 
 
