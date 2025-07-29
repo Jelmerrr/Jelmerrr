@@ -6,7 +6,7 @@ I'm Jelmer, a 23 year old game developer with a software engineering background 
 - Check out some more videos of my work on [my Youtube](https://www.youtube.com/@JelmerrR-sc3uq).
 
 ## Experience
-- 4 years of experience with Unity and C#
+- 5 years of experience with Unity and C#
 - 1/2 year of experience with Godot and GDScript
 - 1/2 year of experience with Unreal Engine and C++
 - 2 years of experience with Javascript mostly with the React framework
