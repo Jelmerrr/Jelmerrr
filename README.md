@@ -3,7 +3,7 @@ I'm Jelmer, a 23 year old game developer with a software engineering background 
 
 - Graduated at Fontys University of Applied Sciences, Software Engineering with a Game Development specialization.
 - Most of my public projects are either hobby projects or for school.
-- Check out some more demos of my work on [my Youtube](https://www.youtube.com/@JelmerrR-sc3uq).
+- Check out some more videos of my work on [my Youtube](https://www.youtube.com/@JelmerrR-sc3uq).
 
 ## Experience
 - 4 years of experience with Unity and C#
