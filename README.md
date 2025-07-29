@@ -1,18 +1,21 @@
 ## Hi there 👋
-I'm Jelmer, a 23 year old game designer with a software engineering background from the Netherlands.
+I'm Jelmer, a 23 year old game developer with a software engineering background from the Netherlands.
 
-- Graduated at Fontys University of Applied Sciences
-- Check out some more demos of my work on [my Youtube](https://www.youtube.com/@JelmerrR-sc3uq)
+- Graduated at Fontys University of Applied Sciences, Software Engineering with a Game Development specialization.
+- Most of my public projects are either hobby projects or for school.
+- Check out some more demos of my work on [my Youtube](https://www.youtube.com/@JelmerrR-sc3uq).
 
 ## Experience
-- 4 years of experience with Unity
-- 2 years of experience with sound design using FMOD
-- 1 year of experience with music composing
-- 2 years of experience with Blender
-- 4 years of experience with C#
-- 1/2 year of experience with Unreal Engine
+- 4 years of experience with Unity and C#
+- 1/2 year of experience with Godot and GDScript
+- 1/2 year of experience with Unreal Engine and C++
+- 2 years of experience with Javascript mostly with the React framework
+- 1 1/2 years of experience with sound design and audio production for game development
+- 1/2 year of experience using FMOD audio implementation
 
-  Always interested in learning new things
+Additionally, I have some experience with Docker, ASP.NET, Html/css, PHP, Python and Java.
+
+Always open to learn new things.
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/jelmerderooij/)
