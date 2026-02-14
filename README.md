@@ -1,17 +1,17 @@
 ## Hi there 👋
-I'm Jelmer, a 23 year old game developer with a software engineering background from the Netherlands.
+I'm Jelmer, a 24 year old game developer with a software engineering background from the Netherlands.
 
 - Graduated at Fontys University of Applied Sciences, Software Engineering with a Game Development specialization.
 - Check out some more videos of my work on [my Youtube](https://www.youtube.com/@JelmerrR-sc3uq).
 
 ## Experience
 - 4+ years of experience with Unity and C#
-- 1/2 year of experience with Godot and GDScript
+- 1.5 years of experience with Godot and GDScript
 - 1/2 year of experience with Unreal Engine and C++
 - 2 years of experience with Javascript mostly with the React framework
-- 1 1/2 years of experience with sound design and audio production for game development
+- 2 years of experience with sound design and audio production for game development
 - 1/2 year of experience using FMOD audio implementation
-- Additionally, I have some experience with Docker, ASP.NET, Html/css, PHP, Python, TypeScript and Java.
+- Additionally, I have experience with Docker, ASP.NET, Html/css, PHP, Python, TypeScript and Java.
 
 Internships:
 - UI/UX analysis for the Telbase platform for Datacon, now Yenlo. https://www.yenlo.com/nl/sectoren/telecom/
